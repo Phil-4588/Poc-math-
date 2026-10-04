@@ -1,0 +1,8 @@
+{
+  "name": "Poc math",
+  "description": "Delightful educational basic math learning app for kids with visual counting, addition, subtraction, interactive sandbox, and sticker rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
